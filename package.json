@@ -1,0 +1,10 @@
+{
+  "name": "amlich-viet-nam",
+  "version": "2.0.0",
+  "description": "Website Âm Lịch Việt Nam",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
